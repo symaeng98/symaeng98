@@ -1,6 +1,6 @@
 <h1>👋 Welcome to Maeng's Coding Space </h1>
 
-<img width=80% src="https://user-images.githubusercontent.com/43024854/159615063-2731b885-1cad-4e05-bdd3-cf37d16ed427.gif">
+<img width=100% src="https://user-images.githubusercontent.com/43024854/159615063-2731b885-1cad-4e05-bdd3-cf37d16ed427.gif">
 
 
 <a href="https://github.com/symaeng98/github-readme-stats">
