@@ -9,6 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=symaeng98&layout=compact&theme=tokyonight" />
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=symaeng98)](https://solved.ac/symaeng98/)
 
 <!---
 symaeng98/symaeng98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
