@@ -3,7 +3,7 @@
 <img width=100% align="center" src="https://user-images.githubusercontent.com/43024854/159616268-1efdabe9-5cb0-4442-8a9a-339bdcba89a7.gif">
 <br/>
 
-<a href="https://github.com/symaeng98/github-readme-stats">
+<!-- <a href="https://github.com/symaeng98/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=symaeng98&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/symaeng98/convoychat">
@@ -19,7 +19,7 @@
 
 <h2> Contact </h2>
 
-[![logo](https://img.shields.io/badge/Blog-맹코기-007396?style=flat)](https://aodtns.tistory.com) [![logo](https://img.shields.io/badge/Instagram-aodtns_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aodtns_/) [![logo](https://img.shields.io/badge/Mail-symaeng98@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:symaeng98@naver.com)
+[![logo](https://img.shields.io/badge/Blog-맹코기-007396?style=flat)](https://aodtns.tistory.com) [![logo](https://img.shields.io/badge/Instagram-aodtns_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aodtns_/) [![logo](https://img.shields.io/badge/Mail-symaeng98@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:symaeng98@naver.com) -->
 
 <!---
 symaeng98/symaeng98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
