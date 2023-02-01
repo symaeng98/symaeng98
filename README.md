@@ -16,7 +16,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=symaeng98)](https://solved.ac/symaeng98/) -->
 ## ✨Experiences
-- Sejong Univ CE (2018.03 ~ )
+- Sejong Univ. CE (2018.03 ~ )
 - SW Maestro 13th (2022.06 ~ 2022.11)
 - Megazone Cloud Digital Financial TF Intern (2022.12 ~ 2023.02)
 <div>
