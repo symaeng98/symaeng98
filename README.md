@@ -19,6 +19,7 @@
 - Sejong Univ. CE (2018.03 ~ )
 - SW Maestro 13th (2022.06 ~ 2022.11)
 - Megazone Cloud Digital Financial TF Intern (2022.12 ~ 2023.02)
+- Team Nexters (2023.06 ~ )
 <div>
   
  ## 🔧Tech Stack 
