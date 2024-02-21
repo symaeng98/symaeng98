@@ -1,5 +1,6 @@
-# 👋 Welcome to Maeng's Coding Space
-
+# 안녕하세요 백엔드 개발하고 있는 맹순영입니다.
+> 일상 생활에서 겪는 **문제를 직접 해결**해보는 것을 좋아합니다.<br> **문제를 정의하고 전체적인 그림을 설계**하기 위해 백엔드 개발자로서 가져야 할 역량을 키우고 있습니다.
+>
 
 <!-- <br/>
 
@@ -15,11 +16,11 @@
 <!-- <h2>Solved.ac</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=symaeng98)](https://solved.ac/symaeng98/) -->
-## ✨Experiences
-- Sejong Univ. CE (2018.03 ~ )
-- SW Maestro 13th (2022.06 ~ 2022.11)
-- Megazone Cloud Digital Financial TF Intern (2022.12 ~ 2023.02)
+## Experiences
 - Team Nexters (2023.06 ~ )
+- Megazone Cloud Digital Financial TF Intern (2022.12 ~ 2023.02)
+- SW Maestro 13th (2022.06 ~ 2022.11)
+- Sejong Univ. CE (2018.03 ~ )
 <div>
   
  ## 🔧Tech Stack 
