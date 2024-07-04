@@ -17,6 +17,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=symaeng98)](https://solved.ac/symaeng98/) -->
 ## Experiences
+- Naver Cloud Backend Engineer Intern (2024.07 ~ )
 - Team Nexters (2023.06 ~ )
 - Megazone Cloud Digital Financial TF Intern (2022.12 ~ 2023.02)
 - SW Maestro 13th (2022.06 ~ 2022.11)
