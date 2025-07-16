@@ -17,11 +17,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=symaeng98)](https://solved.ac/symaeng98/) -->
 ## Experiences
+- Pajama Party with Vacatio Inc.(2025.05 ~ )
 - Naver Cloud Digital Healthcare Data AI Intern (2024.07 ~ 2025.01)
 - Team Nexters (2023.06 ~ )
 - Megazone Cloud Digital Financial TF Intern (2022.12 ~ 2023.02)
 - SW Maestro 13th (2022.06 ~ 2022.11)
-- Sejong Univ. CE (2018.03 ~ )
+- Sejong Univ. CE (2018.03 ~ 2025.08)
 <div>
   
  ## Tech Stack 
