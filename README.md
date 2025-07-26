@@ -25,15 +25,6 @@
 - Sejong Univ. CE (2018.03 ~ 2025.08)
 <div>
   
- ## Tech Stack 
-  <a>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS-FFAD00?style=flat-square&logo=AmazonAWS&logoColor=white"/> 
-  </a>  
-  
 ## Contact
 
 [![logo](https://img.shields.io/badge/Blog-맹코기-007396?style=flat)](https://aodtns.tistory.com) [![logo](https://img.shields.io/badge/Instagram-aodtns_-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aodtns_/) [![logo](https://img.shields.io/badge/Mail-symaeng98@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:symaeng98@naver.com)
